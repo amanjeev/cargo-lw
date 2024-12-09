@@ -1,5 +1,6 @@
-# cargo-what
+# cargo-lw
 
-what what what!
+Mostly, playing  with the cargo metadata API.
 
-list the members of your workspace. you need it. lol!
+List the members of your workspace. You need it. LOL!
+

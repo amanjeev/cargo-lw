@@ -1,11 +1,11 @@
 [package]
-name = "cargo-what"
+name = "cargo-lw"
 version = "0.1.0"
 edition = "2021"
 description = "list the workspace members"
 license-file = "LICENSE"
 documentation = ""
-repository = "https://github.com/amanjeev/cargo-what"
+repository = "https://github.com/amanjeev/cargo-lw"
 
 [dependencies]
 clap = { version = "4.1.4", features = ["derive"] }
